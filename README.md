@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi 👋, I'm Shubham Kulkarni:
 Master's Student in **Software Engineering** at **EPITA, France**<br>- 💻 Passionate **Software Engineer** specializing in **Backend Development**<br>- 🔭 Currently building **Java, Spring Boot & AWS Projects**<br>- 🤝 Open to collaborating on **Backend, Cloud & Open Source Projects**<br>- 🌱 Currently learning **Microservices, Kubernetes, Docker & System Design**<br>- 💬 Ask me about **Java, Spring Boot, Python, Linux, MySQL, Android Development & DSA**<br>- 🎯 Goal: **To build secure, scalable and cloud-native software that solves real-world problems.**<br>- ⚡ Fun fact: **I believe clean code, continuous learning and consistency are the keys to becoming a great software engineer.**
 
 
