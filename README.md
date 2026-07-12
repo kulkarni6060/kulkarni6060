@@ -1,30 +1,28 @@
 <!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Shubham%20Kulkarni&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20%20&descSize=20&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Shubham%20Kulkarni&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack&descSize=18&descAlignY=55" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Kulkarni;Software+Engineering+Student+at+EPITA%2C+France;Java+%7C+Spring+Boot+%7C+Python;Backend+Development+%7C+AWS+%7C+DevOps;Building+Secure+and+Scalable+Software" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Kulkarni;Software+Engineering+Master's+Student+at+EPITA%2C+France;Java+%7C+Spring+Boot+%7C+Kotlin+%7C+Python;Backend+%26+Full-Stack+Development;Cryptography+%7C+Developer+Tooling+%7C+AI+Agents" alt="Typing SVG"/>
 
 </div>
 
 ---
 
 <!-- ===================== INTRODUCTION ===================== -->
-
-<h2 align="center">👋 Hi, I'm Shubham Kulkarni</h2>
+<h2 align="center">👋 About Me</h2>
 
 <div align="center">
 
-🎓 Master’s student in **Software Engineering at EPITA, France**
+🎓 Master's student in **Software Engineering at EPITA, France**
 
-💻 Aspiring **Software Engineer and Backend Developer**
+💻 Focused on **backend and full-stack development** — Java/Spring Boot, Android (Kotlin)
 
-🚀 Interested in **Java, Spring Boot, Python, AWS and DevOps**
+🔐 Deep interest in **cryptography and developer tooling**
 
-🔐 Passionate about building **secure, scalable and efficient software**
+🤖 Building **AI agents** and exploring **blockchain / DeFi concepts** (Bitcoin, Ethereum, smart contracts)
 
-🌱 Currently learning **Microservices, Docker, Kubernetes and System Design**
+🚀 Comfortable across **AWS, Linux and DevOps** workflows
 
 📍 Based in **France**
 
@@ -33,211 +31,124 @@
 ---
 
 <!-- ===================== PROFILE BADGES ===================== -->
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=kulkarni6060&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-
 <img src="https://img.shields.io/github/followers/kulkarni6060?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
-
 <img src="https://img.shields.io/github/stars/kulkarni6060?label=Stars&style=for-the-badge&logo=github" alt="GitHub Stars"/>
 
 </div>
 
 ---
 
-<!-- ===================== SKILLS ===================== -->
+<!-- ===================== TECH STACK — BIG ICON GRID ===================== -->
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<h2 align="center">🛠️ Languages and Technologies</h2>
-
-<h3 align="center">Programming Languages</h3>
-
+<h3 align="center">Languages</h3>
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,bash&theme=dark" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=kotlin" width="65" height="65" alt="Kotlin"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" alt="C++"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bash" width="65" height="65" alt="Bash"/>
 
 </div>
 
-<h3 align="center">Backend Development</h3>
-
+<h3 align="center">Backend & Frameworks</h3>
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=spring,maven,gradle&theme=dark" alt="Backend Technologies"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Backend%20Development-02569B?style=for-the-badge&logo=serverless&logoColor=white"/>
-<img src="https://img.shields.io/badge/Object--Oriented%20Programming-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-5C2D91?style=for-the-badge&logo=thealgorithms&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring Boot"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=maven" width="65" height="65" alt="Maven"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=gradle" width="65" height="65" alt="Gradle"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=androidstudio" width="65" height="65" alt="Android"/>
 
 </div>
 
 <h3 align="center">Databases</h3>
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Databases"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Database%20Design-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" alt="SQLite"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL"/>
 
 </div>
 
-<h3 align="center">Cloud, DevOps and Tools</h3>
-
+<h3 align="center">Cloud, DevOps & Tools</h3>
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,jenkins&theme=dark" alt="Cloud and DevOps"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bash%20Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=kubernetes" width="65" height="65" alt="Kubernetes"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=jenkins" width="65" height="65" alt="Jenkins"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub"/>
 
 </div>
 
-<h3 align="center">Development Tools</h3>
-
+<h3 align="center">IDEs & Dev Tools</h3>
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,androidstudio,postman&theme=dark" alt="Development Tools"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-</div>
-
----
-
-<!-- ===================== AREAS OF INTEREST ===================== -->
-
-<h2 align="center">💡 Areas of Interest</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center"><b>☕ Java Development</b></td>
-<td align="center"><b>🍃 Spring Boot</b></td>
-<td align="center"><b>⚙️ Backend Engineering</b></td>
-</tr>
-
-<tr>
-<td align="center"><b>☁️ Cloud Computing</b></td>
-<td align="center"><b>🚀 DevOps</b></td>
-<td align="center"><b>🐧 Linux</b></td>
-</tr>
-
-<tr>
-<td align="center"><b>🔐 Secure Software</b></td>
-<td align="center"><b>🗄️ Database Design</b></td>
-<td align="center"><b>📚 DSA</b></td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- ===================== CURRENT LEARNING ===================== -->
-
-<h2 align="center">🌱 Currently Learning</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=microservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/System%20Design-FF6F00?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud%20Architecture-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=idea" width="65" height="65" alt="IntelliJ IDEA"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=eclipse" width="65" height="65" alt="Eclipse"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=jupyter" width="65" height="65" alt="Jupyter"/>
 
 </div>
 
 ---
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
-
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔐 Cryptography System
+### 🔐 Cryptography Visualizer
+Interactive Tkinter desktop app built with a group, covering:
+- SHA-256, ECDSA (NIST P-256), Merkle proofs
+- Nine-tab GUI with SQLite persistence
+- Grew out of deeper research into Merkle trees, ECDSA, and zk-SNARKs (Tornado Cash case study)
 
-A Python-based cryptography project featuring:
-
-- Custom encryption and decryption
-- AES-128 implementation
-- Brute-force analysis
-- Frequency analysis
-- OpenSSL validation
-- Security testing
-
-**Technologies:** Python, AES-128, OpenSSL, Cryptography
+**Tech:** Python, Tkinter, SQLite, Cryptography
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🤖 Helpdesk Ticket Triage Agent
+AI-powered ticket triage agent, built for an EPITA group assignment:
+- n8n workflow automation integrated with GLPI
+- Groq-hosted LLM applying ITIL classification logic
+- Formal documentation with architecture diagrams
 
-### ⏰ Android Clock Application
-
-A multi-feature Android application containing:
-
-- Digital clock
-- Alarm
-- Timer
-- Stopwatch
-- Interactive Android interface
-
-**Technologies:** Kotlin, Android Studio, XML
+**Tech:** n8n, GLPI, Groq LLM, ITIL
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ☕ Spring Boot Projects
+### ⏰ MyClock — Android App
+Multi-feature Android app built with pure Android SDK (no Jetpack):
+- Digital clock, alarm, timer, stopwatch
+- Clean Kotlin architecture, fully explained end-to-end
 
-Backend development projects featuring:
-
-- Java and Spring Core
-- Dependency injection
-- Database connectivity
-- Layered application design
-- Maven project management
-
-**Technologies:** Java, Spring Boot, Maven, MySQL
+**Tech:** Kotlin, Android SDK, XML
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### ☁️ AWS & Linux Projects
+Cloud and systems practical work including:
+- AWS EC2 deployment, Apache web server
+- HTTPS configuration with self-signed SSL certificates
+- Linux administration and shell scripting
 
-### ☁️ AWS and Linux Projects
-
-Cloud and Linux practical work including:
-
-- AWS EC2 deployment
-- Apache web server
-- HTTPS configuration
-- Self-signed SSL certificates
-- Linux administration
-
-**Technologies:** AWS, Linux, Apache, Bash, SSL
+**Tech:** AWS, Linux, Apache, Bash, SSL
 
 </td>
 </tr>
@@ -246,13 +157,11 @@ Cloud and Linux practical work including:
 ---
 
 <!-- ===================== GITHUB STATISTICS ===================== -->
-
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kulkarni6060&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics"/>
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulkarni6060&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 
 </div>
@@ -268,7 +177,6 @@ Cloud and Linux practical work including:
 ---
 
 <!-- ===================== TROPHIES ===================== -->
-
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
@@ -280,7 +188,6 @@ Cloud and Linux practical work including:
 ---
 
 <!-- ===================== ACTIVITY GRAPH ===================== -->
-
 <h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
@@ -292,7 +199,6 @@ Cloud and Linux practical work including:
 ---
 
 <!-- ===================== SNAKE ANIMATION ===================== -->
-
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
@@ -304,7 +210,6 @@ Cloud and Linux practical work including:
 ---
 
 <!-- ===================== CONNECT ===================== -->
-
 <h2 align="center">🤝 Connect With Me</h2>
 
 <div align="center">
@@ -312,11 +217,9 @@ Cloud and Linux practical work including:
 <a href="https://www.linkedin.com/in/shubham-kulkarni-22bb731aa/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Shubham%20Kulkarni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:YOUR-EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/kulkarni6060" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-kulkarni6060-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -326,7 +229,6 @@ Cloud and Linux practical work including:
 ---
 
 <!-- ===================== QUOTE ===================== -->
-
 <h2 align="center">💬 Developer Quote</h2>
 
 <div align="center">
@@ -337,13 +239,11 @@ Cloud and Linux practical work including:
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
-
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
-**“Building secure, scalable and efficient software—one line of code at a time.”**
+**"Building secure, scalable and efficient software—one line of code at a time."**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
 
